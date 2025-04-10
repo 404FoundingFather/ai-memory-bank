@@ -16,10 +16,10 @@ Memory Bank provides a structured approach to documenting all aspects of a proje
 
 ```bash
 # Clone this repository
-git clone https://github.com/404FoundingFather/memory-bank.git
+git clone https://github.com/404FoundingFather/ai-memory-bank.git
 
 # Copy the templates to your project
-cp -r memory-bank/memory-bank/ your-project/
+cp -r ai-memory-bank/memory-bank/ your-project/
 ```
 
 ### File Structure

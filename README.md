@@ -14,7 +14,7 @@ Memory Bank provides a structured approach to documenting all aspects of a proje
 
 1. Create a fresh context with the AI Assistant
 
-2. prompt:  review the files in memory-bank.  `Let's work on the kanban task: [copy text from 07-kanban.md]`
+2. prompt:  `review all files in the memory-bank directory. Let's work on the kanban task: [copy text from 07-kanban.md]`
 
 3. After task is complete, reviewed and tested, to the AI Assistant:  `update the appropriate memory-bank files for the work just completed`.  This **must** be part of your routine.  The AI Assistants (at least in 20205) won't consistently update the memory-bank automatically.  Giving the Assistant this direct prompt yields in high quality memory-bank updates.
 

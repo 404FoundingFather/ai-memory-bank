@@ -10,6 +10,21 @@ A comprehensive, framework-agnostic project documentation template system that c
 
 Memory Bank provides a structured approach to documenting all aspects of a project, ensuring that information is accessible, maintainable, and useful for both human developers and AI assistants. When used properly, these files create a persistent knowledge base that improves collaboration and maintains continuity across development sessions.
 
+## Usage Pattern
+
+1. Create a fresh context with the AI Assistant
+
+2. prompt:  review the files in memory-bank.  `Let's work on the kanban task: [copy text from 07-kanban.md]`
+
+3. After task is complete, reviewed and tested, to the AI Assistant:  `update the appropriate memory-bank files for the work just completed`.  This **must** be part of your routine.  The AI Assistants (at least in 20205) won't consistently update the memory-bank automatically.  Giving the Assistant this direct prompt yields in high quality memory-bank updates.
+
+4. git add / commit / push
+
+5. **Important**: Start a fresh context for the next task.  This prevents bloated contexts and reduces the tendancy for the AI Assistant to drift and hallunicate.
+
+Code review what is generated.  Always.
+
+
 ## 🚀 Getting Started
 
 ### Installation

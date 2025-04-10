@@ -1,4 +1,4 @@
-# Memory Bank - Project Documentation Templates
+# Memory Bank: Your AI's Persistent Memory (now with Clean Code)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Last Updated](https://img.shields.io/badge/Last%20Updated-April%2010%2C%202025-brightgreen.svg)](https://github.com/yourusername/memory-bank)

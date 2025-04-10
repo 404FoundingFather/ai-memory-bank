@@ -5,9 +5,6 @@
 
 A comprehensive, framework-agnostic project documentation template system that creates a structured "memory bank" for your projects. Designed to improve collaboration between developers and AI assistants by maintaining a persistent knowledge base.
 
-<p align="center">
-  <img src="https://via.placeholder.com/600x300?text=Memory+Bank+Documentation+System" alt="Memory Bank Documentation" width="600">
-</p>
 
 ## 📋 Overview
 

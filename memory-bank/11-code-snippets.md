@@ -1,8 +1,23 @@
 # Code Snippets
 
-**Last Updated:** [Current Date]
+**Last Updated:** April 10, 2025
 
-This document collects reusable code patterns, examples, and solutions to common problems encountered in the project.
+This document collects reusable code patterns, examples, and solutions to common problems encountered in the project. All code snippets adhere to Clean Code principles.
+
+## Clean Code Standards for Snippets
+
+All code snippets in this document must exemplify Clean Code principles:
+
+1. **Clear Intent**: Each snippet should clearly communicate its purpose
+2. **Simplicity**: Snippets should use the simplest approach that solves the problem
+3. **Proper Naming**: All variables, functions, and classes should have descriptive names
+4. **Minimal Comments**: Code should be self-explanatory, with comments explaining only the "why"
+5. **Error Handling**: Include appropriate error handling in snippets
+6. **Testability**: Where applicable, show how the code can be tested
+7. **SOLID Principles**: Demonstrate good design principles
+8. **DRY (Don't Repeat Yourself)**: Avoid duplication in code patterns
+
+When adding new snippets, ensure they adhere to these principles and can serve as exemplars for the project's coding standards.
 
 ## Common Patterns
 

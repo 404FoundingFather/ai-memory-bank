@@ -1,8 +1,32 @@
 # Architectural Decisions
 
-**Last Updated:** [Current Date]
+**Last Updated:** April 10, 2025
 
 This document records significant architectural decisions made in the project, providing context, rationale, and consequences for each decision.
+
+## Decision-Making Guidelines
+
+### Clean Code Principles Requirement
+
+All architectural decisions must consider Clean Code principles regardless of programming language or framework. These principles include:
+
+1. **Readability**: Code should be easy to read and understand
+2. **Simplicity**: Prefer simple solutions over complex ones
+3. **Self-documenting**: Code should explain itself through clear naming and structure
+4. **DRY (Don't Repeat Yourself)**: Avoid duplication in code and knowledge
+5. **SOLID Principles**:
+   - Single Responsibility Principle
+   - Open/Closed Principle  
+   - Liskov Substitution Principle
+   - Interface Segregation Principle
+   - Dependency Inversion Principle
+6. **Small Functions/Classes**: Keep functions and classes focused and concise
+7. **Meaningful Names**: Use descriptive, intention-revealing names
+8. **Minimal Dependencies**: Limit dependencies between components
+9. **Error Handling**: Handle errors gracefully and meaningfully
+10. **Testability**: Design code to be easily testable
+
+Each architectural decision should explicitly address how it supports or enhances adherence to these principles.
 
 ## Decision Record Format
 
